@@ -1,8 +1,3 @@
-
-Built by https://www.blackbox.ai
-
----
-
 # Samehadaku - Nonton Streaming Anime Sub Indo
 
 ## Project Overview
